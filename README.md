@@ -25,5 +25,8 @@ On test set of 8 images, 7 are classified correctly.
 
 #### Further:  
 
+Multi task learning could be attempted or models could be combined to create single model.  
+But couldnt try due to time constraints
+
 
 
