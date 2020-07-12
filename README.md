@@ -2,7 +2,7 @@
 
 ### This application is made to detect which part of car is damaged 
 
-#### To quickly view final results open [Final output]() and scroll to the bottom 
+#### To quickly view final results open [Final output](https://github.com/bharshal/car_damage_detector/blob/master/final_output.ipynb) and scroll to the bottom 
 
 
 #### Dataset:  
